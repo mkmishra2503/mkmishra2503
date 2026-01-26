@@ -33,6 +33,7 @@
 🧮 A simple calculator application built using **Core Java** for performing basic operations.
 
 🔗 Repo: https://github.com/mkmishra2503/calculator-java-console
+
 ---
 
 ✅ 3) Java Password Generator (Console Based - Core Java)
@@ -44,6 +45,7 @@
 🔹 Tech: Core Java
 
 🔗 Repo: https://github.com/mkmishra2503/java_password_generator
+
 ---
 
 ✅ 4) Core Java Login System (Console Based - OOP)
@@ -55,6 +57,7 @@
 🔹 Tech: Core Java
 
 🔗 Repo: https://github.com/mkmishra2503/core_java_login_system
+
 ---
 
 ## 📫 Connect With Me
