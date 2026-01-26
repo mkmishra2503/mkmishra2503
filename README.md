@@ -33,7 +33,28 @@
 🧮 A simple calculator application built using **Core Java** for performing basic operations.
 
 🔗 Repo: https://github.com/mkmishra2503/calculator-java-console
+---
 
+✅ 3) Java Password Generator (Console Based - Core Java)
+
+🔐 A Java console-based password generator that creates strong random passwords with user-defined length.
+
+🔹 Concepts Used: Random, StringBuilder, Loops
+🔹 Features: Custom length, strong password generation
+🔹 Tech: Core Java
+
+🔗 Repo: https://github.com/mkmishra2503/java_password_generator
+---
+
+✅ 4) Core Java Login System (Console Based - OOP)
+
+🔑 Console based Login System in Core Java using OOP, Encapsulation, HashMap and Exception Handling.
+
+🔹 Concepts Used: OOPs, Encapsulation, HashMap, Exception Handling
+🔹 Features: User Login, Validation, Secure structure
+🔹 Tech: Core Java
+
+🔗 Repo: https://github.com/mkmishra2503/core_java_login_system
 ---
 
 ## 📫 Connect With Me
