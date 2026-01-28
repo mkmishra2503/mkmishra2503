@@ -60,6 +60,18 @@
 
 ---
 
+✅ 5) Student Management System (Java + JDBC + PostgreSQL)
+
+🎓 Console-based Student Management System built using Core Java, JDBC, and PostgreSQL with complete CRUD functionality.
+
+🔹 Concepts Used: JDBC, OOPs, SQL, Exception Handling  
+🔹 Features: Add, View, Search, Update, Delete Students  
+🔹 Tech: Core Java, JDBC, PostgreSQL  
+
+🔗 Repo: https://github.com/mkmishra2503/Student_Management_System.git
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mithilesh-kumar-mishra
