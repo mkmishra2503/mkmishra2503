@@ -19,18 +19,26 @@
 
 ## 📌 Featured Projects
 
-### ✅ 1) Ticket Booking System (Console Based - Core Java)
-🎯 A console-based ticket booking system that demonstrates **Multithreading** and **Synchronization** to prevent overbooking.
+✅ 1) Ticket Booking System (Console Based – Core Java)
 
-🔹 Concepts Used: Java Threads, `synchronized`, `join()`  
-🔹 Total Tickets: 10 | Users: 16 | Successful Bookings: 10  
+🎟️ A console-based ticket booking application developed using Core Java that demonstrates multithreading and synchronization to handle concurrent bookings safely.
+
+🔹 Concepts Used: Java Threads, Synchronization, Thread Lifecycle (`join()`)
+🔹 Total Tickets: 10 | User: 16 | Successful Booking:10
+🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation  
+🔹 Tech: Core Java  
 
 🔗 Repo: https://github.com/mkmishra2503/ticket-booking-system-java
 
 ---
 
-### ✅ 2) Calculator App (Java Console)
-🧮 A simple calculator application built using **Core Java** for performing basic operations.
+✅ 2) Calculator App (Java Console)
+
+🧮 A simple console-based calculator application developed using Core Java to perform basic arithmetic operations.
+
+🔹 Concepts Used: Core Java, Conditional Statements, Switch Case  
+🔹 Features: Addition, Subtraction, Multiplication, Division  
+🔹 Tech: Core Java  
 
 🔗 Repo: https://github.com/mkmishra2503/calculator-java-console
 
