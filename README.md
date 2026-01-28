@@ -23,10 +23,10 @@
 
 🎟️ A console-based ticket booking application developed using Core Java that demonstrates multithreading and synchronization to handle concurrent bookings safely.
 
-🔹 Concepts Used: Java Threads, Synchronization, Thread Lifecycle (`join()`)
-🔹 Total Tickets: 10 | User: 16 | Successful Booking:10
-🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation  
-🔹 Tech: Core Java  
+🔹 Concepts Used: Java Threads, Synchronization, Thread Lifecycle (`join()`)                                                                                                                                         
+🔹 Total Tickets: 10 | User: 16 | Successful Booking:10                                                                                                                                                              
+🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation                                                                                                                                              
+🔹 Tech: Core Java                                                                                                                                                                                                   
 
 🔗 Repo: https://github.com/mkmishra2503/ticket-booking-system-java
 
