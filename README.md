@@ -112,11 +112,17 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 
 ---
 
+## 🎯 Career Objective
+
+To start my career as a **Full Stack Java Developer**, where I can apply my technical knowledge, learn industry best practices, and contribute to building scalable software solutions.
+
+---
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mithilesh-kumar-mishra
 - 📧 Email: mkmishra2503@gmail.com
 
 ---
-
+⭐ *Feel free to explore my repositories and projects. I'm always open to learning and collaboration.*
+---
 ⭐ If you like my projects, feel free to give them a **star** on GitHub 😊
