@@ -14,7 +14,7 @@ I enjoy learning new technologies and applying them to solve practical problems 
 Core Java, OOPs, Spring Boot, Spring Framework, JDBC, RESTful APIs, Exception Handling  
 
 **Frontend:**  
-HTML5, CSS3, JavaScript, React.js (Basics), Bootstrap  
+HTML5, CSS3, JavaScript, React.js, Bootstrap  
 
 **Database:**  
 SQL, PostgreSQL, MySQL (Basic)  
@@ -26,7 +26,7 @@ Hibernate, Spring Data JPA
 Git, GitHub, Maven, Gradle, Postman, Eclipse IDE, Spring Tool Suite (STS), VS Code  
 
 **Core Concepts:**  
-MVC Architecture, Layered Architecture (DAO, Service), CRUD Operations, API Integration, Multithreading (synchronized), JWT Authentication (Basic)
+MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multithreading (synchronized), JWT Authentication (Basic)
 
 ---
 
