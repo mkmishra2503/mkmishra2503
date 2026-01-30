@@ -3,19 +3,30 @@
 🚀 **Java Full Stack Developer (Fresher)**  
 💻 **Core Java | Spring Boot | React | PostgreSQL**
 
-I am a passionate and motivated **Full Stack Java Developer** with strong fundamentals in backend development and hands-on experience in building real-world projects. I enjoy learning new technologies and applying them to solve practical problems.
+I am a passionate and motivated **Full Stack Java Developer** with strong fundamentals in backend development and hands-on experience in building real-world, console-based and database-driven applications.  
+I enjoy learning new technologies and applying them to solve practical problems with clean and maintainable code.
 
 ---
 
 ## 🛠️ Technical Skills
-### 🔹Programming: Java (Core Java, OOPs) 
-### 🔹Backend Technologies: Spring Boot, RESTful APIs, Spring Security & MVC, Swagger UI, Microservices (Basic)    
-### 🔹ORM: Hibernate, Spring Data JPA 
-### 🔹Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React.js 
-### 🔹Databases: MySQL (Basic), PostgreSQL 
-### 🔹Tools: Git, GitHub, Maven, Gradle, Postman, Eclipse, Spring Tool Suite (STS), VS Code 
-### 🔹Core Concepts: MVC Architecture, CRUD Operations, API Integration, Exception Handling, JWT Authentication (Basic)
 
+**Backend:**  
+Core Java, OOPs, Spring Boot, Spring Framework, JDBC, RESTful APIs, Exception Handling  
+
+**Frontend:**  
+HTML5, CSS3, JavaScript, React.js (Basics), Bootstrap  
+
+**Database:**  
+SQL, PostgreSQL, MySQL (Basic)  
+
+**ORM & Frameworks:**  
+Hibernate, Spring Data JPA  
+
+**Tools & IDEs:**  
+Git, GitHub, Maven, Gradle, Postman, Eclipse IDE, Spring Tool Suite (STS), VS Code  
+
+**Core Concepts:**  
+MVC Architecture, Layered Architecture (DAO, Service), CRUD Operations, API Integration, Multithreading (synchronized), JWT Authentication (Basic)
 
 ---
 
@@ -29,7 +40,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Total Tickets: 10 | User: 16 | Successful Booking:10                                                                                                                                                              
 🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation                                                                                                                                              
 🔹 Tech: Core Java                                                                                                                                                                                                   
-
 🔗 Repo: https://github.com/mkmishra2503/ticket-booking-system-java
 
 ---
@@ -41,7 +51,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Concepts Used: Core Java, Conditional Statements, Switch Case  
 🔹 Features: Addition, Subtraction, Multiplication, Division  
 🔹 Tech: Core Java  
-
 🔗 Repo: https://github.com/mkmishra2503/calculator-java-console
 
 ---
@@ -53,7 +62,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Concepts Used: Random, StringBuilder, Loops                                                                                                                                                                       
 🔹 Features: Custom length, strong password generation                                                                                                                                                               
 🔹 Tech: Core Java                                                                                                                                                                                                   
-
 🔗 Repo: https://github.com/mkmishra2503/java_password_generator
 
 ---
@@ -65,7 +73,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Concepts Used: OOPs, Encapsulation, HashMap, Exception Handling                                                                                                                                                   
 🔹 Features: User Login, Validation, Secure structure                                                                                                                                                                
 🔹 Tech: Core Java                                                                                                                                                                                                   
-
 🔗 Repo: https://github.com/mkmishra2503/core_java_login_system
 
 ---
@@ -77,7 +84,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Concepts Used: JDBC, OOPs, SQL, Exception Handling  
 🔹 Features: Add, View, Search, Update, Delete Students  
 🔹 Tech: Core Java, JDBC, PostgreSQL  
-
 🔗 Repo: https://github.com/mkmishra2503/Student_Management_System.git
 
 ---
@@ -89,7 +95,6 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 🔹 Concepts Used: JDBC, OOPs, SQL, Exception Handling, Multithreading (synchronized)
 🔹 Features: Login with Account No & PIN, Check Balance, Deposit, Withdraw, Transaction History, Invalid Login Handling
 🔹 Tech: Core Java, JDBC, PostgreSQL
-
 🔗 Repo: https://github.com/mkmishra2503/bank-management-system-java
 
 ---
@@ -105,6 +110,9 @@ To start my career as a **Full Stack Java Developer**, where I can apply my tech
 - 📧 Email: mkmishra2503@gmail.com
 
 ---
+
 ⭐ *Feel free to explore my repositories and projects. I'm always open to learning and collaboration.*
+
 ---
+
 ⭐ If you like my projects, feel free to give them a **star** on GitHub 😊
