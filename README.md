@@ -95,7 +95,7 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 🔹 Concepts Used: JDBC, OOPs, SQL, Exception Handling, Multithreading (synchronized)                                                                                                                          
 🔹 Features: Login with Account No & PIN, Check Balance, Deposit, Withdraw, Transaction History, Invalid Login Handling                                                                                        
 🔹 Tech: Core Java, JDBC, PostgreSQL                                                                                                                                                                        
-🔗 Repo: https://github.com/mkmishra2503/bank-management-system-java
+🔗 Repo: https://github.com/mkmishra2503/bank-management-system.git 
 
 ---
 
