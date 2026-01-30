@@ -1,19 +1,39 @@
-# Hi, I'm Mithilesh Kumar Mishra 👋
+# 👋 Hi, I'm Mithilesh Kumar Mishra
 
 🚀 **Java Full Stack Developer (Fresher)**  
-💻 **Core Java | Spring Boot | React | PostgreSQL**  
-📌 Passionate about building real-world projects and learning new technologies.
+💻 **Core Java | Spring Boot | React | PostgreSQL**
+
+I am a passionate and motivated **Full Stack Java Developer** with strong fundamentals in backend development and hands-on experience in building real-world projects. I enjoy learning new technologies and applying them to solve practical problems.
 
 ---
 
-## 🛠 Skills
+## 🛠️ Technical Skills
 
-- **Java, OOPs**
-- **Spring Boot / Spring Framework**
-- **HTML, CSS, JavaScript**
-- **React.js**
-- **SQL, PostgreSQL**
-- **Git & GitHub**
+### 🔹 Backend
+- Java (Core Java, OOPs)
+- Spring Boot, Spring Framework
+- JDBC, REST APIs
+- Exception Handling
+- Spring MVC & Security
+- hibernate ORM
+- Microservive (Basic)
+- JWT
+
+### 🔹 Frontend
+- HTML5, CSS3, JavaScript,bootstrap
+- React.js 
+
+### 🔹 Database
+- SQL(Basic)
+- PostgreSQL
+
+### 🔹 Tools & Others
+- Git & GitHub
+- Eclipse IDE
+- Postman
+- Spring Tools Suite(STS)
+- VS Code
+- Swagger UI
 
 ---
 
@@ -77,6 +97,18 @@
 🔹 Tech: Core Java, JDBC, PostgreSQL  
 
 🔗 Repo: https://github.com/mkmishra2503/Student_Management_System.git
+
+---
+
+✅ 6) Bank Management System (Java + JDBC + PostgreSQL)
+
+📌 Console-based Bank Management System built using Core Java, JDBC, and PostgreSQL with secure login and real-world banking operations.
+
+🔹 Concepts Used: JDBC, OOPs, SQL, Exception Handling, Multithreading (synchronized)
+🔹 Features: Login with Account No & PIN, Check Balance, Deposit, Withdraw, Transaction History, Invalid Login Handling
+🔹 Tech: Core Java, JDBC, PostgreSQL
+
+🔗 Repo: https://github.com/mkmishra2503/bank-management-system-java
 
 ---
 
