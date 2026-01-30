@@ -8,32 +8,14 @@ I am a passionate and motivated **Full Stack Java Developer** with strong fundam
 ---
 
 ## 🛠️ Technical Skills
+### 🔹Programming: Java (Core Java, OOPs) 
+### 🔹Backend Technologies: Spring Boot, RESTful APIs, Spring Security & MVC, Swagger UI, Microservices (Basic)    
+### 🔹ORM: Hibernate, Spring Data JPA 
+### 🔹Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React.js 
+### 🔹Databases: MySQL (Basic), PostgreSQL 
+### 🔹Tools: Git, GitHub, Maven, Gradle, Postman, Eclipse, Spring Tool Suite (STS), VS Code 
+### 🔹Core Concepts: MVC Architecture, CRUD Operations, API Integration, Exception Handling, JWT Authentication (Basic)
 
-### 🔹 Backend
-- Java (Core Java, OOPs)
-- Spring Boot, Spring Framework
-- JDBC, REST APIs
-- Exception Handling
-- Spring MVC & Security
-- hibernate ORM
-- Microservive (Basic)
-- JWT
-
-### 🔹 Frontend
-- HTML5, CSS3, JavaScript,bootstrap
-- React.js 
-
-### 🔹 Database
-- SQL(Basic)
-- PostgreSQL
-
-### 🔹 Tools & Others
-- Git & GitHub
-- Eclipse IDE
-- Postman
-- Spring Tools Suite(STS)
-- VS Code
-- Swagger UI
 
 ---
 
