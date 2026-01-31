@@ -115,7 +115,7 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 📌 A Core Spring Framework project built using **Java-based configuration (annotations)** to demonstrate **IoC container** and **Dependency Injection** without using XML configuration.                      
 
 🔹 Concepts Used:  Spring Core, IoC, Dependency Injection, Java-Based Configuration, Bean Lifecycle, Annotations                                                                                                  
-🔹 Features: Java Config using `@Configuration` and `@Bean`, Annotation-based Dependency Injection, Spring Container Initialization, Clean and modular package structure                                           
+🔹 Features: Java Config using `@Configuration` and `@Bean`, Annotation-based Dependency Injection, Spring Container Initialization                                                                         
 🔹 Tech: Core Java, Spring Framework, Eclipse IDE                                                                                                                                  
 🔗 Repo:  https://github.com/mkmishra2503/spring_java_based_configuration.git
 
