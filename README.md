@@ -99,7 +99,7 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 ---
 
-✅ Spring XML Based Configuration (Spring Core)
+✅ 7) Spring XML Based Configuration (Spring Core)
 
 📌 A Core Spring Framework project built using XML-based configuration to demonstrate IoC container and Dependency Injection.
 
