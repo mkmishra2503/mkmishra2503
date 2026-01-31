@@ -120,6 +120,16 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 🔗 Repo:  https://github.com/mkmishra2503/spring_java_based_configuration.git
 
 ---
+✅ 9) Spring Java-Based Configuration (Spring Core)
+
+📌 A Core Spring project using Java-based configuration to demonstrate IoC and Dependency Injection without XML.
+
+🔹 Concepts Used: Spring Core, IoC, Dependency Injection, Java Config, Bean Lifecycle
+🔹 Features: @Configuration, @Bean, Annotation-based DI, Spring Container Initialization
+🔹 Tech: Core Java, Spring Framework, Eclipse IDE
+🔗 Repo: https://github.com/mkmishra2503/spring_annotation_based_configuration.git
+
+---
 
 ## 🎯 Career Objective
 
