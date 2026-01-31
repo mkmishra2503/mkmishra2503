@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mithilesh Kumar Mishra
 
 🚀 **Java Full Stack Developer (Fresher)**  
-💻 **Core Java | Spring Boot | React | PostgreSQL**
+💻 **Core Java | Spring Boot | React.js | PostgreSQL**
 
 I am a passionate and motivated **Full Stack Java Developer** with strong fundamentals in backend development and hands-on experience in building real-world, console-based and database-driven applications.  
 I enjoy learning new technologies and applying them to solve practical problems with clean and maintainable code.
@@ -36,10 +36,10 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 🎟️ A console-based ticket booking application developed using Core Java that demonstrates multithreading and synchronization to handle concurrent bookings safely.
 
-🔹 Concepts Used: Java Threads, Synchronization, Thread Lifecycle (`join()`)                                                                                                                                         
-🔹 Total Tickets: 10 | User: 16 | Successful Booking:10                                                                                                                                                              
-🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation                                                                                                                                              
-🔹 Tech: Core Java                                                                                                                                                                                                   
+🔹 Concepts Used: Java Threads, Synchronization, Thread Lifecycle (`join()`)                                                                                                                                        
+🔹 Total Tickets: 10 | User: 16 | Successful Booking:10                                                                                                                                                             
+🔹 Features: Concurrent Booking Handling, Thread-Safe Ticket Allocation                                                                                                                                             
+🔹 Tech: Core Java                                                                                                                                                                                                  
 🔗 Repo: https://github.com/mkmishra2503/ticket-booking-system-java
 
 ---
@@ -59,9 +59,9 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 🔐 A Java console-based password generator that creates strong random passwords with user-defined length.
 
-🔹 Concepts Used: Random, StringBuilder, Loops                                                                                                                                                                       
-🔹 Features: Custom length, strong password generation                                                                                                                                                               
-🔹 Tech: Core Java                                                                                                                                                                                                   
+🔹 Concepts Used: Random, StringBuilder, Loops                                                                                                                                                                      
+🔹 Features: Custom length, strong password generation                                                                                                                                                              
+🔹 Tech: Core Java                                                                                                                                                                                                  
 🔗 Repo: https://github.com/mkmishra2503/java_password_generator
 
 ---
@@ -70,9 +70,9 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 🔑 Console based Login System in Core Java using OOP, Encapsulation, HashMap and Exception Handling.
 
-🔹 Concepts Used: OOPs, Encapsulation, HashMap, Exception Handling                                                                                                                                                   
-🔹 Features: User Login, Validation, Secure structure                                                                                                                                                                
-🔹 Tech: Core Java                                                                                                                                                                                                   
+🔹 Concepts Used: OOPs, Encapsulation, HashMap, Exception Handling                                                                                                                                                  
+🔹 Features: User Login, Validation, Secure structure                                                                                                                                                               
+🔹 Tech: Core Java                                                                                                                                                                                                  
 🔗 Repo: https://github.com/mkmishra2503/core_java_login_system
 
 ---
@@ -101,12 +101,23 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 ✅ 7) Spring XML Based Configuration (Spring Core)
 
-📌 A Core Spring Framework project built using XML-based configuration to demonstrate IoC container and Dependency Injection.                                                                              
+📌 A Core Spring Framework project built using XML-based configuration to demonstrate **IoC container** and **Dependency Injection**.                                                                              
 
 🔹 Concepts Used: Spring Core, IoC, Dependency Injection, Bean Lifecycle, XML Configuration                                                                                                                   
 🔹 Features: XML Bean Configuration, Setter Injection, Spring Container Initialization                                                                                                                      
 🔹 Tech: Core Java, Spring Framework, Eclipse IDE                                                                                                                                                           
 🔗 Repo: https://github.com/mkmishra2503/spring_xml_based_configuration.git                                                                                                                                 
+
+---
+
+✅ 8) Spring Java-Based Configuration (Spring Core)
+
+📌 A Core Spring Framework project built using **Java-based configuration (annotations)** to demonstrate **IoC container** and **Dependency Injection** without using XML configuration.
+
+🔹 Concepts Used:  Spring Core, IoC, Dependency Injection, Java-Based Configuration, Bean Lifecycle, Annotations
+🔹 Features: Java Config using `@Configuration` and `@Bean`, Annotation-based Dependency Injection, Spring Container Initialization, Clean and modular package structure
+🔹 Tech: Core Java, Spring Framework, Eclipse IDE
+🔗 Repo:  https://github.com/mkmishra2503/spring_java_based_configuration.git
 
 ---
 
