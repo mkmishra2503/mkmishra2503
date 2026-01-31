@@ -99,6 +99,17 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 ---
 
+✅ Spring XML Based Configuration (Spring Core)
+
+📌 A Core Spring Framework project built using XML-based configuration to demonstrate IoC container and Dependency Injection.
+
+🔹 Concepts Used: Spring Core, IoC, Dependency Injection, Bean Lifecycle, XML Configuration
+🔹 Features: XML Bean Configuration, Setter Injection, Spring Container Initialization
+🔹 Tech: Core Java, Spring Framework, Eclipse IDE
+🔗 Repo: https://github.com/mkmishra2503/spring_xml_based_configuration.git
+
+---
+
 ## 🎯 Career Objective
 
 To start my career as a **Full Stack Java Developer**, where I can apply my technical knowledge, learn industry best practices, and contribute to building scalable software solutions.
