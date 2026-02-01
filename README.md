@@ -159,4 +159,4 @@ To start my career as a **Full Stack Java Developer**, where I can apply my tech
 
 ⭐ If you like my projects, feel free to give them a **star** on GitHub 😊
 
-**Happy Coding** 🚀
+😊 **Happy Coding** 😊
