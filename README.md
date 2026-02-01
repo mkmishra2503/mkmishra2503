@@ -134,10 +134,10 @@ MVC Architecture, Layered Architecture, CRUD Operations, API Integration, Multit
 
 📌 A Spring Core Maven project using Java-based configuration and annotations to demonstrate Inversion of Control (IoC) and Dependency Injection (DI) without XML.
 
-🔹 Concepts Used: Spring Core, IoC, Dependency Injection, Java-Based Configuration, Loose Coupling, Bean Management
-🔹 Features: @Configuration, @ComponentScan, @Component, @Autowired, Annotation-based DI, Spring Container Initialization
-🔹 Tech Stack: Core Java, Spring Framework (Core), Maven, Eclipse IDE, Java 11
-🔗 Repo: https://github.com/mkmishra2503/spring-core-car-engine-app.git
+🔹 Concepts Used: Spring Core, IoC, Dependency Injection, Java-Based Configuration, Loose Coupling, Bean Management                                                                                 
+🔹 Features: @Configuration, @ComponentScan, @Component, @Autowired, Annotation-based DI, Spring Container Initialization                                                                     
+🔹 Tech Stack: Core Java, Spring Framework (Core), Maven, Eclipse IDE, Java 11                                                                                                   
+🔗 Repo: https://github.com/mkmishra2503/spring-core-car-engine-app.git                                                                                                                  
 
 ---
 
@@ -158,3 +158,5 @@ To start my career as a **Full Stack Java Developer**, where I can apply my tech
 ---
 
 ⭐ If you like my projects, feel free to give them a **star** on GitHub 😊
+
+**Happy Coding** 🚀
